@@ -1,0 +1,15 @@
+/Users/debrawinter/Desktop/Repos/TrueCodersChallenges/TrueCodersChallenges/bin/Debug/net6.0/TrueCodersChallenges
+/Users/debrawinter/Desktop/Repos/TrueCodersChallenges/TrueCodersChallenges/bin/Debug/net6.0/TrueCodersChallenges.deps.json
+/Users/debrawinter/Desktop/Repos/TrueCodersChallenges/TrueCodersChallenges/bin/Debug/net6.0/TrueCodersChallenges.runtimeconfig.json
+/Users/debrawinter/Desktop/Repos/TrueCodersChallenges/TrueCodersChallenges/bin/Debug/net6.0/TrueCodersChallenges.dll
+/Users/debrawinter/Desktop/Repos/TrueCodersChallenges/TrueCodersChallenges/bin/Debug/net6.0/TrueCodersChallenges.pdb
+/Users/debrawinter/Desktop/Repos/TrueCodersChallenges/TrueCodersChallenges/obj/Debug/net6.0/TrueCodersChallenges.csproj.AssemblyReference.cache
+/Users/debrawinter/Desktop/Repos/TrueCodersChallenges/TrueCodersChallenges/obj/Debug/net6.0/TrueCodersChallenges.GeneratedMSBuildEditorConfig.editorconfig
+/Users/debrawinter/Desktop/Repos/TrueCodersChallenges/TrueCodersChallenges/obj/Debug/net6.0/TrueCodersChallenges.AssemblyInfoInputs.cache
+/Users/debrawinter/Desktop/Repos/TrueCodersChallenges/TrueCodersChallenges/obj/Debug/net6.0/TrueCodersChallenges.AssemblyInfo.cs
+/Users/debrawinter/Desktop/Repos/TrueCodersChallenges/TrueCodersChallenges/obj/Debug/net6.0/TrueCodersChallenges.csproj.CoreCompileInputs.cache
+/Users/debrawinter/Desktop/Repos/TrueCodersChallenges/TrueCodersChallenges/obj/Debug/net6.0/TrueCodersChallenges.dll
+/Users/debrawinter/Desktop/Repos/TrueCodersChallenges/TrueCodersChallenges/obj/Debug/net6.0/refint/TrueCodersChallenges.dll
+/Users/debrawinter/Desktop/Repos/TrueCodersChallenges/TrueCodersChallenges/obj/Debug/net6.0/TrueCodersChallenges.pdb
+/Users/debrawinter/Desktop/Repos/TrueCodersChallenges/TrueCodersChallenges/obj/Debug/net6.0/TrueCodersChallenges.genruntimeconfig.cache
+/Users/debrawinter/Desktop/Repos/TrueCodersChallenges/TrueCodersChallenges/obj/Debug/net6.0/ref/TrueCodersChallenges.dll
